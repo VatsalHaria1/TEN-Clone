@@ -4,12 +4,6 @@
 
 The project Template can be used to build bigger projects
 
-## Live Application URL
-
-The Application is deployed in http://Vinay-Tare.github.io/ReactClone-TEN-Website
-
-Click on the link to see the application
-
 ## Prerequisites
 
 ### Install Node JS
